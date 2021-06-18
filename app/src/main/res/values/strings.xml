@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">ServiceDemoApp</string>
+    <string name="app_name">Demo App</string>
+    <string name="download_song">Download audio</string>
+    <string name="play_file">Play audio</string>
+    <string name="downloading_started">Downloading started</string>
+    <string name="successfully_downloaded">Successfully downloaded</string>
+    <string name="playing_started">Playback started</string>
+    <string name="please_download">Please download audio</string>
+    <string name="channel_name">Channel name</string>
+    <string name="channel_description">Channel description</string>
+    <string name="playing">Music is playing</string>
+    <string name="tap_stop">Tap to stop</string>
+    <string name="no_response">No response</string>
+    <string name="unknown_error">Unknown error"</string>
 </resources>
